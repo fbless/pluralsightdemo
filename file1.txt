@@ -1,1 +1,3 @@
 I have editted this text file
+
+new feature
